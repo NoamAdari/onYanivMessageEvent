@@ -1,0 +1,4 @@
+name: Lol
+version: '${project.version}'
+main: art.kadawi.lol.Lol
+api-version: 1.19
